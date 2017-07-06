@@ -2,6 +2,9 @@
 
 > First Vue.js project, a personal site for Worf from Star Trek: TNG and Deep Space Nine.
 
+### Notes
+-Gallery uses vue-images to display images in a lightbox [docs](https://github.com/littlewin-wang/vue-images)
+
 ## Build Setup
 
 ``` bash
