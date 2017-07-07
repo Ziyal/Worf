@@ -63,7 +63,6 @@ export default {
   display: inline-block;
   width: 600px;
   text-align: center;
-  margin-left: 20px;
 }
 
 .klingon-text {
@@ -71,16 +70,17 @@ export default {
   width: 500px;
   margin-bottom: 40px;
   margin-left: 10px;
-  margin-top: 60px;
+  margin-top: 40px;
 }
 
 .worf-klingon {
-  width: 450px;
+  width: 550px;
 }
 
 .son-klingon {
-  width: 400px;
-  margin-right: 20px;
+  width: 500px;
+  // margin-right: 10px;
+  margin-left: 10px;
 }
 
 .navbar-list {
@@ -101,6 +101,10 @@ export default {
   margin: 0px;
   margin-bottom: 15px;
   color: #890200;
+}
+
+hr {
+  margin-top: 5px;
 }
 
 /* */
