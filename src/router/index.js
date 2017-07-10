@@ -1,10 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '@/components/Home'
-import Career from '@/components/Career'
-import Family from '@/components/Family'
-import Culture from '@/components/Culture'
-import Gallery from '@/components/Gallery'
+import Home from '../components/Home.vue'
+import Career from '../components/Career.vue'
+import Family from '../components/Family.vue'
+import Culture from '../components/Culture.vue'
+import Gallery from '../components/Gallery.vue'
 
 Vue.use(Router)
 
