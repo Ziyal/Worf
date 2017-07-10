@@ -97,10 +97,12 @@ export default {
 
 /* NAME TITLE */
 .title-container {
-    background-color: #2D436E;
-    width: 250px;
-    text-align: center;
+    background-color: #333333;
     color: white;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: auto;
     margin-bottom: 0px;
     padding-bottom: 3px;
     padding-top: 4px;
@@ -108,13 +110,14 @@ export default {
 .title1 {
     text-align: center;
     margin-bottom: 0px;
-    font-size: 45px;
+    margin-top: 25px;
+    font-size: 35px;
 }
 
 .title2 {
     text-align: center;
     margin-top: 0px;
-    font-size: 30px;
+    font-size: 17px;
     font-style: italic;
 }
 
@@ -135,7 +138,7 @@ ul {
   position: relative;
   width: 6px;
   margin: 0 auto;
-  padding-top: 50px;
+//   padding-top: 50px;
   background: #333333;
 }
 
