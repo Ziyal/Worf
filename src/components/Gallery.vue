@@ -23,6 +23,8 @@
 import vueImages from 'vue-images'
 
 export default {
+    template: '<div>Gallery</div>',
+    props: [ 'myprop' ],
     name: 'gallery',
     data () {
       return {
