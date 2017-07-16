@@ -1,8 +1,16 @@
-# worf
+# Worf
 
-> A Vue.js project
+First Vue.js project, a personal website for Worf from Star Trek: TNG and DS9.
 
-## Build Setup
+__Built With:__ 
+  * Vue.js
+  * HTML/CSS
+  * [vue-images](https://github.com/littlewin-wang/vue-images)
+  * [boostrap-vue](https://bootstrap-vue.js.org/docs)
+
+![Home](https://github.com/Ziyal/Worf/blob/master/static/screenshots/home.png "Home")
+
+## Vue Build Setup
 
 ``` bash
 # install dependencies
