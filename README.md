@@ -1,6 +1,6 @@
 # Worf
 
-First Vue.js project, a personal website for Worf from Star Trek: TNG and DS9.
+For my first venture into the world of Vue.js and webpack I created this site featuring Worf from Star Trek: The Next Generation and Deep Space Nine. It's mostly an experimental project to get my feet wet with the technologies and to just have some fun and geek out about Star Trek.
 
 __Built With:__ 
   * Vue.js
@@ -8,7 +8,7 @@ __Built With:__
   * [vue-images](https://github.com/littlewin-wang/vue-images)
   * [boostrap-vue](https://bootstrap-vue.js.org/docs)
 
-![Home](https://github.com/Ziyal/Worf/blob/master/static/screenshots/home.png "Home")
+![Home](https://github.com/Ziyal/Worf/blob/master/static/screenshots/worf_animation.gif "Home")
 
 ## Vue Build Setup
 
